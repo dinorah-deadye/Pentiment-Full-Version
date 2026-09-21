@@ -285,4 +285,4 @@ This repository serves as the official landing page for Pentiment. The software 
 **Get the most recent version of Pentiment today!**
 
 ---
-**Last updated:** 2026-09-21 10:33:27 UTC
+**Last updated:** 2026-09-21 16:55:24 UTC
